@@ -1,0 +1,3 @@
+myRepo:
+  gitProvider: my_github
+  path: jfbetapipeorg/jfrog-pipelines-simple-example
